@@ -1,5 +1,5 @@
 # Ilyaz
-Ilyaz Bot
+Ilyaz 
 
 ### Alat dan Bahan
 Siapin alat dan bahannya.
@@ -18,7 +18,7 @@ Sebelum lu jalanin sc nya install dulu lah.
 > kalo lu belum punya apk termux, download di playstore
 > masuk ke apk termux lalu ketik dibawah ini!
 > git clone https://github.com/ilyaswilian/Ilyaz.git
-> cd botst4rz
+> cd Ilyaz
 > bash install.sh
 > node index.js
 > Tinggal scan qr dah
@@ -26,7 +26,7 @@ Sebelum lu jalanin sc nya install dulu lah.
 
 ## Features
 
-| st4rz BOT       |                Feature           |
+| Ilyaz BOT       |                Feature           |
 | :-----------: | :--------------------------------: |
 |       ✅       | Sticker Creator                  |
 |       ✅       | Magernulis                       |
